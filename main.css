@@ -1,0 +1,44 @@
+body{
+    background-image: url(images/softBKG.jpg);
+    position: relative;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    font-size: 30pt;
+}
+.btn{
+    color: #0d0d92;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 400;
+    font-size: 20pt;
+    width: 200px;
+    height: 60px;
+    border-radius: 12px;
+    border: 3pt solid #8282d2;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    display: block;
+}
+.btn:hover{
+    color: white;
+    background-color: #0d0d92;
+    cursor: pointer;
+}
+#royalBird {
+    display: none;
+    width: 600px;
+    margin: 0 auto;
+}
+#sadBird {
+    display: none;
+    width: 600px;
+    margin: 0 auto;
+}
+#kickinBird {
+    display: none;
+    width: 600px;
+    margin: 0 auto;
+}
